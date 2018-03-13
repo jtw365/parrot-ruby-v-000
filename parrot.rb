@@ -7,7 +7,7 @@ def parrot
   return name
 end
 
-def parrot(bird)
-  puts "Pretty bird!"
-  "Pretty bird!"
-end
+# def parrot(bird)
+#   puts "Pretty bird!"
+#   "Pretty bird!"
+# end
