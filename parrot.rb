@@ -5,7 +5,4 @@ def parrot(bird = "Pretty bird!")
   return "#{bird}"
 end
 
-# def parrot(bird)
-#   puts "Pretty bird!"
-#   "Pretty bird!"
-# end
+def parrot
