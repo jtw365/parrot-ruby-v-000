@@ -1,9 +1,7 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
 def parrot(bird)
-  bird = parrot("Pretty bird!")
-  puts bird
-  return bird
+  puts "Pretty bird!"
 end
 
 # def parrot(bird)
