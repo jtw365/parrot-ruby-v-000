@@ -4,5 +4,4 @@ def parrot
   puts "Squawk!"
   "Squawk!"
   bird = "Pretty bird!"
-  bird
 end
