@@ -8,5 +8,7 @@ end
 def parrot
   puts "Squawk!"
   return "Squawk!"
-  bird = "Pretty bird"
+  bird = "Pretty bird!"
+  puts bird
+  return bird
 end
