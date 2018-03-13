@@ -7,4 +7,4 @@ end
 
 def parrot(bird)
   puts "Pretty bird!"
-  "Pretty bird"
+  "Pretty bird!"
