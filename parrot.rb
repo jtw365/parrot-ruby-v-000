@@ -4,4 +4,4 @@ def parrot()
   puts "Squawk!"
 end
 
-puts "Squawk"
+print "Squawk"
