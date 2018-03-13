@@ -10,5 +10,5 @@ def parrot
   return "Squawk!"
   bird = "Pretty bird!"
   puts "#{bird}"
-  return bird
+  return "#{bird}"
 end
