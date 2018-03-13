@@ -7,3 +7,4 @@ end
 
 def parrot(bird)
   "Pretty bird!"
+end
