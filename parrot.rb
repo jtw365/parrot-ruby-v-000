@@ -6,3 +6,4 @@ def parrot
 end
 
 def parrot(bird)
+  "Pretty bird!"
