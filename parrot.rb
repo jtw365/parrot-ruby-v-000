@@ -8,3 +8,4 @@ end
 def parrot(bird)
   puts "Pretty bird!"
   "Pretty bird!"
+end
