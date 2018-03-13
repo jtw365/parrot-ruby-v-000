@@ -4,11 +4,3 @@ def parrot(bird = "Pretty bird!")
   puts "Pretty bird!"
   return "#{bird}"
 end
-
-def parrot
-  puts "Squawk!"
-  return "Squawk!"
-  bird = "Pretty bird!"
-  puts "parrot(#{bird})"
-  return "parrot(#{bird})"
-end
