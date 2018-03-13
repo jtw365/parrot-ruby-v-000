@@ -2,6 +2,7 @@
 # returns the phrase
 def parrot(bird)
   puts "Pretty bird!"
+  return "Pretty bird!"
 end
 
 # def parrot(bird)
